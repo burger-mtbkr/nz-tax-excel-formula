@@ -9,3 +9,8 @@ IF(B50<=70000,
 IF(B50<=180000,
 (B50-70000)*33%+14020,
 (B50-180000)*39%+50320))))`
+
+
+**Disclaimer:**
+
+Use this as is at your own risk. 
